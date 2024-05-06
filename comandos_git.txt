@@ -1,0 +1,10 @@
+// este comando se encarga de inicializar un repositorio para poder empezar a realizar el seguimiento
+git init
+// este comando es para mirar el estado de nuestro repositorio 
+git status
+// es para preparar el archivo al cual se le va a hacer el commit
+git add
+// para agrupar la información 
+git commit -m "descripcion de la entrega"
+// para subir los cambios realizados en el repositorio
+git push
